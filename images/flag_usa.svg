@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="800"
+   height="480"
+   viewBox="0 0 800 480"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <g
+     id="g8"
+     transform="translate(-869.99988,-75.000008)">
+    <g
+       id="g14445">
+      <rect
+         style="fill:#d8000c;fill-opacity:1;stroke:none;stroke-width:45.0734;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3"
+         width="800"
+         height="480"
+         x="869.99988"
+         y="75.000008" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5011;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3-8"
+         width="800"
+         height="36.923077"
+         x="869.99988"
+         y="111.92309" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5011;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3-1-1"
+         width="800"
+         height="36.923077"
+         x="869.99988"
+         y="185.76924" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5011;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3-6-8"
+         width="800"
+         height="36.923077"
+         x="869.99988"
+         y="259.61539" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5011;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3-1-2-9"
+         width="800"
+         height="36.923077"
+         x="869.99988"
+         y="333.46155" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5011;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3-6-0-2"
+         width="800"
+         height="36.923077"
+         x="869.99988"
+         y="407.30771" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.5011;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2734-3-1-2-0-8"
+         width="800"
+         height="36.923077"
+         x="869.99988"
+         y="481.15387" />
+      <rect
+         style="fill:#181c53;fill-opacity:1;stroke:none;stroke-width:2.68775;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect8865"
+         width="266.66669"
+         height="221.53847"
+         x="869.99988"
+         y="75.000008" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path11354"
+         d="m 914.4444,130.38455 -3.6923,-12.06625 -12.29583,2.8355 8.60353,-9.23075 -8.60353,-9.23075 12.29583,2.8355 3.6923,-12.066252 3.6923,12.066252 12.29583,-2.8355 -8.60353,9.23075 8.60353,9.23075 -12.29583,-2.8355 z"
+         transform="matrix(1.2037228,1.0184137e-6,-1.0184137e-6,1.2037228,-186.2931,-22.802217)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path11354"
+         id="use14254"
+         transform="translate(88.889079)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14254"
+         id="use14256"
+         transform="translate(88.888977)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14256"
+         id="use14258"
+         transform="translate(-133.3335,36.923013)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14258"
+         id="use14260"
+         transform="translate(88.88892)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14260"
+         id="use14262"
+         transform="translate(-133.33353,36.923137)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14262"
+         id="use14264"
+         transform="translate(88.889083)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14264"
+         id="use14266"
+         transform="translate(88.888977)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14266"
+         id="use14268"
+         transform="translate(-44.44458,36.92301)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14268"
+         id="use14270"
+         transform="translate(-88.888916)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14270"
+         id="use14272"
+         transform="translate(-44.44458,36.922977)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14272"
+         id="use14274"
+         transform="translate(88.889083)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14274"
+         id="use14276"
+         transform="translate(88.88898)" />
+    </g>
+  </g>
+</svg>
