@@ -354,14 +354,13 @@ text-decoration: none;
 }
 @keyframes loader {
     from{
-        left: -300px;
         color: black;
         transform: rotate(0deg);
     }
     to{
-        border-top-color:  yellow;
         color: red;
         transform: rotate(360deg);
     }
 }
+
 
